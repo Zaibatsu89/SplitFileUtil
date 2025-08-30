@@ -1,6 +1,6 @@
-# SplitFileUtil
+# Split file util
 
-SplitFileUtil is een eenvoudige en krachtige C#-tool voor het splitsen van grote bestanden in kleinere delen. Dit is handig voor het opslaan, versturen of archiveren van grote bestanden. De tool biedt een gebruiksvriendelijke interface en ondersteunt diverse bestandsformaten.
+SplitFileUtil is een eenvoudige en krachtige C#-tool voor het splitsen van grote bestanden in kleinere delen. Dit is handig voor het opslaan, versturen of archiveren van grote bestanden. De tool biedt een gebruiksvriendelijke interface en ondersteunt diverse bestandsformaten. Het is gebouwd met .NET 10.0.
 
 ## Features
 
